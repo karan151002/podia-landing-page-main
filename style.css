@@ -470,7 +470,7 @@
                         text-decoration: none;
                     }
                     
-                    .qus-icon {
+/*                     .qus-icon {
                         border-radius: 60px;
                         height: 100px;
                         width: 100px;
@@ -483,7 +483,7 @@
                     
                     .qus-icon {
                         text-align: center;
-                    }
+                    } */
                     /* media query */
                     
                     @media (max-width: 1200px) {
